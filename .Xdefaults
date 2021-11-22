@@ -1,0 +1,30 @@
+URxvt.shading: 0
+URxvt.transparent: true
+URxvt.internalBorder: 0
+
+UXTerm*font1:           -misc-fixed-*-*-*-*-6-*-*-*-*-*-iso10646-*
+UXTerm*font2:           -misc-fixed-medium-r-normal--8-80-75-75-c-50-iso10646-1
+UXTerm*font3:           -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso10646-1
+UXTerm*font4:           -misc-fixed-medium-r-normal--13-120-75-75-c-80-iso10646-1
+UXTerm*font5:           -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+UXTerm*font6:           -misc-fixed-medium-r-normal--20-200-75-75-c-100-iso10646-1
+UXTerm*utf8Fonts.font:          -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+UXTerm*utf8Fonts.wideFont:      -misc-fixed-medium-r-normal-ko-18-120-100-100-c-180-iso10646-1
+xterm*visualBell:false
+xterm*sessionMgt:false
+XTerm*font:       -misc-fixed-medium-r-normal-*-*-140-*-*-c-*-iso8859-15
+XTerm*font2:    -misc-fixed-medium-r-normal-*-*-70-*-*-c-*-iso8859-15
+XTerm*font3:      -misc-fixed-medium-r-normal-*-*-100-*-*-c-*-iso8859-15
+XTerm*font4:      -misc-fixed-medium-r-normal-*-*-120-*-*-c-*-iso8859-15
+XTerm*font5:      -misc-fixed-medium-r-normal-*-*-140-*-*-c-*-iso8859-15
+
+! Use a decent font
+xterm*faceName:DejaVu Sans Mono
+xterm*faceSize:11
+urxvt.font:xft:DejaVu Sans Mono:pixelsize=12
+
+URxvt.cursorBlink: 1
+URxvt.cursorUnderline: 1
+
+URxvt.keysym.C-Up: font-size:increase
+URxvt.keysym.C-Down: font-size:decrease
